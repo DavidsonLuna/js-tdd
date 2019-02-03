@@ -1,0 +1,21 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "My JS library with TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/DavidsonLuna/js-tdd)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "testing"
+  ],
+  "author": "Davidson Luna <davidsonluna@gmail.com>",
+  "license": "MIT"
+}
